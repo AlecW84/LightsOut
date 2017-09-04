@@ -1,8 +1,6 @@
 ﻿// Alec Watson
 // GUI
 
-// This is a test comment to see if GitHub catches it.
-
 using System;
 using System.Collections.Generic;
 using System.Drawing;
